@@ -44,7 +44,7 @@ export default function ProcessSection() {
       <div className="absolute inset-0 overflow-hidden">
         <img
           src="https://d2xsxph8kpxj0f.cloudfront.net/310519663389925414/PdgZrBsavUGDgTLhcr6yQv/process-section-RtCSeBsntdYmzd4z3DJZVB.webp"
-          alt=""
+          alt="AI automation workflow background showing connected data streams and digital processes"
           className="w-full h-full object-cover opacity-10"
         />
         <div className="absolute inset-0 bg-[#0A0A0F]/80" />

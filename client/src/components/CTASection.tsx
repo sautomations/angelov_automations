@@ -18,7 +18,7 @@ export default function CTASection() {
       <div className="absolute inset-0">
         <img
           src="https://d2xsxph8kpxj0f.cloudfront.net/310519663389925414/PdgZrBsavUGDgTLhcr6yQv/cta-bg-Vtk223ATxu9VpCUPhUbYPs.webp"
-          alt=""
+          alt="Futuristic digital landscape background for booking a free AI automation demo"
           className="w-full h-full object-cover opacity-30"
         />
         <div className="absolute inset-0 bg-[#0A0A0F]/70" />

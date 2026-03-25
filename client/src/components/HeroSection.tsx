@@ -50,7 +50,7 @@ export default function HeroSection() {
       <div className="absolute inset-0">
         <img
           src="https://d2xsxph8kpxj0f.cloudfront.net/310519663389925414/PdgZrBsavUGDgTLhcr6yQv/hero-bg-kihQ899CtBGNBjt2FTwveK.webp"
-          alt=""
+          alt="Abstract digital network visualization representing AI-powered revenue operations"
           className="w-full h-full object-cover opacity-40"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-[#0A0A0F]/60 via-[#0A0A0F]/40 to-[#0A0A0F]" />
