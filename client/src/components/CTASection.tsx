@@ -74,8 +74,8 @@ export default function CTASection() {
           <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-6 text-sm text-[#6B6B80]">
             <div className="flex items-center gap-2">
               <Mail className="w-4 h-4 text-[#00E5FF]" />
-              <a href="mailto:zabivkataone@gmail.com" className="hover:text-[#00E5FF] transition-colors">
-                zabivkataone@gmail.com
+              <a href="mailto:info@angelovautomations.com" className="hover:text-[#00E5FF] transition-colors">
+                info@angelovautomations.com
               </a>
             </div>
             <div className="flex items-center gap-2">
